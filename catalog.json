@@ -1,0 +1,24 @@
+{
+  "catalog_version": 1,
+  "publisher": "Indofano",
+  "apps": [
+    {
+      "id": "com.indofano.system-status",
+      "name": "Estado del sistema",
+      "version": "1.0.0",
+      "description": "Diagnostico seguro del PLC y Wasm3.",
+      "asset": "system-status.ind",
+      "download": "https://github.com/ItsFernando23/indofano-apps/releases/download/v1.0.0/system-status.ind",
+      "capabilities": []
+    },
+    {
+      "id": "com.indofano.calculator",
+      "name": "Calculadora",
+      "version": "1.0.0",
+      "description": "Operaciones aritmeticas aisladas.",
+      "asset": "calculator.ind",
+      "download": "https://github.com/ItsFernando23/indofano-apps/releases/download/v1.0.0/calculator.ind",
+      "capabilities": []
+    }
+  ]
+}
