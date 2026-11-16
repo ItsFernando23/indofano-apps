@@ -7,6 +7,10 @@
       "name": "Estado del sistema",
       "version": "1.0.0",
       "description": "Diagnostico seguro del PLC y Wasm3.",
+      "publisher": "Indofano",
+      "published": "2026-11-16",
+      "icon": "SYS",
+      "size_bytes": 0,
       "asset": "system-status.ind",
       "download": "https://github.com/ItsFernando23/indofano-apps/releases/download/v1.0.0/system-status.ind",
       "capabilities": []
@@ -16,6 +20,10 @@
       "name": "Calculadora",
       "version": "1.0.0",
       "description": "Operaciones aritmeticas aisladas.",
+      "publisher": "Indofano",
+      "published": "2026-11-16",
+      "icon": "CALC",
+      "size_bytes": 0,
       "asset": "calculator.ind",
       "download": "https://github.com/ItsFernando23/indofano-apps/releases/download/v1.0.0/calculator.ind",
       "capabilities": []
